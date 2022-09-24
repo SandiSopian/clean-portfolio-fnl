@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: "https://nakamapedia.blogspot.com/",
+  homepage: "https://sociabuzz.com/sandis1",
   title: "SS.",
 };
 
@@ -8,11 +8,14 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: "Sandi Sopian",
   role: "Front End Engineer",
-  description: "I'm work for developing, plan, design, build, and implement the user interface systems of websites, software programs, and web-based applications.",
-  resume: "https://drive.google.com/file/d/15khwRgkuRWXa2abYbGYBcJtIgqE24e2H/view?usp=sharing",
+  description: "I'm work for developing, plan, UI/UX design, build, and implement the user interface systems of websites, software programs, and web-based applications.",
+  resume: "https://drive.google.com/file/d/1cGZiZe_u0zOljaCfyKaiw-okA5sLNPm4/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/sandi-sopian-007623227/",
     github: "https://github.com/SandiSopian",
+    language: "https://nakamapedia.blogspot.com/",
+    behance: "https://www.behance.net/sandisopian",
+    medium: "https://medium.com/@sandis1",
   },
 };
 
@@ -56,10 +59,17 @@ const projects = [
   },
   {
     name: "Landing Page",
-    description: "I'm slicing my own figma design for e-commerce plants shop",
+    description: "I'm slicing my own figma design for e-commerce - Venendria plants shop ",
     stack: ["Next", "JavaScript", "TailwindCSS"],
     sourceCode: "https://github.com/SandiSopian/Figma-to-NextJs-Tailwind---Slicing-1",
     livePreview: "https://figma-to-next-js-tailwind-slicing-ver-1.vercel.app/",
+  },
+  {
+    name: "Landing Page",
+    description: "I'm slicing my own figma design for bussiness landing page - Sarang Coffee cafe",
+    stack: ["Next", "JavaScript", "TailwindCSS"],
+    sourceCode: "https://github.com/SandiSopian/Figma-to-NextJs-Tailwind---Slicing-2",
+    livePreview: "https://figma-to-next-js-tailwind-slicing-sarang-coffee-cafe.vercel.app/",
   },
 ];
 
